@@ -23,7 +23,7 @@ function App() {
 {/* Código do menu lateral (logo, separador e menu). */}
 
   <div className = 'mainSidebar'>
-     <img className='logo' src={Frame}/>
+     <img className='logo' src={Frame} alt={'logo'} />
      <div className='separador'> </div>
           <div className='pages'> 
           <div className='menu'> <AiFillHome/> <p>Dashboard</p> </div>
@@ -54,7 +54,7 @@ A classe mainDashboard é a que leva o overflow para o scroll da página */}
     <IoMdNotificationsOutline size={20} />
     <BiMoon size={20}/>
     <AiOutlineInfoCircle size={20}/>
-    <img src={user}/>
+    <img src={user} alt={'logo'} />
     </div>
      </div>
 
