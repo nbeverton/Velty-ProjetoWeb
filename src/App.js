@@ -1,18 +1,18 @@
 import './App.css'
 
-import { AiFillHome } from 'react-icons/ai';
-import { AiOutlineShoppingCart } from 'react-icons/ai';
-import { AiFillSignal } from 'react-icons/ai';
-import { AiOutlineTable } from 'react-icons/ai';
-import { HiUser } from 'react-icons/hi';
-import { AiOutlineDollar } from 'react-icons/ai';
-import { BiSearchAlt } from 'react-icons/bi';
-import { IoMdNotificationsOutline } from 'react-icons/io';
-import { BiMoon } from 'react-icons/bi';
-import { AiOutlineInfoCircle } from 'react-icons/ai';
+import { AiFillHome } from "react-icons/ai";
+import { AiOutlineShoppingCart } from "react-icons/ai";
+import { AiFillSignal } from "react-icons/ai";
+import { AiOutlineTable } from "react-icons/ai";
+import { HiUser } from "react-icons/hi";
+import { AiOutlineDollar } from "react-icons/ai";
+import { BiSearchAlt } from "react-icons/bi";
+import { IoMdNotificationsOutline } from "react-icons/io";
+import { BiMoon } from "react-icons/bi";
+import { AiOutlineInfoCircle } from "react-icons/ai";
 
-import Frame from './img/Frame.png';
-import user from './img/user.png';
+import Frame from "./img/Frame.png";
+import user from "./img/user.png";
 
 
 function App() {
