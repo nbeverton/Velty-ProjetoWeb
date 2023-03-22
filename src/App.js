@@ -79,7 +79,7 @@ valores de lucro da empresa */}
      <div className='frame f18'>
        <div className='card18 card18-1'>
        
-       < AiOutlineDollar className='icone' color='white' size={56}/>
+       <AiOutlineDollar className='icone' color='white' size={56}/>
        <p className='txt18-1'>R$ 312.321,00</p>
        <p className='txt18-2'>Receita total</p>
        <div className='separador18'></div>
@@ -88,7 +88,7 @@ valores de lucro da empresa */}
        </div>
 
        <div className='card18 card18-2'>
-       < AiOutlineDollar className='icone' color='white' size={56}/>
+       <AiOutlineDollar className='icone' color='white' size={56}/>
        <p className='txt18-1'>R$ 74.421,00</p>
        <p className='txt18-2'>Lucro total</p>
        <div className='separador18'></div>
@@ -97,7 +97,7 @@ valores de lucro da empresa */}
        </div>
 
        <div className='card18 card18-3'>
-       < AiOutlineDollar className='icone' color='white' size={56}/>
+       <AiOutlineDollar className='icone' color='white' size={56}/>
        <p className='txt18-1'>R$ 3,12</p>
        <p className='txt18-2'>Lucro por venda</p>
        <div className='separador18'></div>
@@ -151,28 +151,28 @@ valores de lucro da empresa */}
      <div className='frame f11'>
        <div className='card11'>
 
-       < AiOutlineDollar className='icone' color='#4318FF' size={56}/>
+       <AiOutlineDollar className='icone' color='#4318FF' size={56}/>
         <p className='txt11-1'>312.321</p>
         <p className='txt17-1'>Cotações realizadas</p>
         <p className='txt17-3'>+15,3% (+223)</p>
        </div>
 
        <div className='card11'>
-        < AiOutlineDollar className='icone' color='#4318FF' size={56}/>
+        <AiOutlineDollar className='icone' color='#4318FF' size={56}/>
         <p className='txt11-1'>212.012</p>
         <p className='txt17-1'>Vendas finalizadas</p>
         <p className='txt17-3'>+15,3% (+223)</p>
        </div>
 
        <div className='card11'>
-        < AiOutlineDollar className='icone' color='#4318FF' size={56}/>
+        <AiOutlineDollar className='icone' color='#4318FF' size={56}/>
         <p className='txt11-1'>42.021</p>
         <p className='txt17-1'>Cotações não concluídas</p>
         <p className='txt17-3'>+15,3% (+223)</p>
        </div>
 
        <div className='card11'>
-        < AiOutlineDollar className='icone' color='#4318FF' size={56}/>
+        <AiOutlineDollar className='icone' color='#4318FF' size={56}/>
         <p className='txt11-1'>3.122</p>
         <p className='txt17-1'>Cotações não respondidas</p>
         <p className='txt17-3'>+15,3% (+223)</p>
